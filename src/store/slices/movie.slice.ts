@@ -1,6 +1,6 @@
 import {createAsyncThunk, createSlice, PayloadAction} from "@reduxjs/toolkit";
 
-import {IMovie, IMovieDetails, IMovieResponse} from "../../interfaces";
+import {IMovie, IMovieDetails} from "../../interfaces";
 import {moviesService} from "../../services";
 
 interface IMovieState {
