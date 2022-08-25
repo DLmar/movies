@@ -4,7 +4,8 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import {Provider} from "react-redux";
 import {BrowserRouter} from "react-router-dom";
-import {setupStore} from "./store";
+import { setupStore } from './store';
+
 
 
 const store = setupStore();
