@@ -1,6 +1,6 @@
 export * from './Main/Main';
 export * from './MoviesList/MoviesList';
-export * from './MovieListCard/MovieListCard';
+export * from './MoviesListCard/MovieListCard';
 export * from './Header/Header';
 export * from './Layout/Layout';
 export * from './MovieDetailsPage/MovieDetailsPage';
